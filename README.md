@@ -70,4 +70,4 @@ A detailed user operation manual is provided to demonstrate how the system is us
 The manual includes step-by-step workflows, GUI screenshots, and explanations of daily operations such as inventory initialization, production entry, order management, and analytical reporting.
 
 Please refer to:
-- `docs/User_Operation_Manual.pdf`
+- https://drive.google.com/file/d/1o20ZEDGuxsdey6ffdvKI1As7wqefZTXN/view?usp=sharing
