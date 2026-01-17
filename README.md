@@ -17,6 +17,7 @@ This project addresses these issues by providing a centralized system that integ
 - Analytical dashboards for reporting and monitoring
 
 ## System Structure
+```
 ERP/
 ├── app/
 │   ├── daily_report.py
@@ -36,7 +37,7 @@ ERP/
 │   ├── initial_inventory.xlsx
 │   └── initial_order.xlsx
 └── erp_main.py
-
+```
 ## Key Features
 - Inventory level tracking and manual adjustment
 - Production entry and inbound inventory management
